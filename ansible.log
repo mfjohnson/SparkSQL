@@ -1,0 +1,194 @@
+2016-11-23 16:37:51,237 p=30640 u=mjohnson |  server2.hdp | FAILED | rc=1 >>
+ERROR: Garbage option.
+********* simple selection *********  ********* selection by list *********
+-A all processes                      -C by command name
+-N negate selection                   -G by real group ID (supports names)
+-a all w/ tty except session leaders  -U by real user ID (supports names)
+-d all except session leaders         -g by session OR by effective group name
+-e all processes                      -p by process ID
+                                      -q by process ID (unsorted & quick)
+T  all processes on this terminal     -s processes in the sessions given
+a  all w/ tty, including other users  -t by tty
+g  OBSOLETE -- DO NOT USE             -u by effective user ID (supports names)
+r  only running processes             U  processes for specified users
+x  processes w/o controlling ttys     t  by tty
+*********** output format **********  *********** long options ***********
+-o,o user-defined  -f full            --Group --User --pid --cols --ppid
+-j,j job control   s  signal          --group --user --sid --rows --info
+-O,O preloaded -o  v  virtual memory  --cumulative --format --deselect
+-l,l long          u  user-oriented   --sort --tty --forest --version
+-F   extra full    X  registers       --heading --no-heading --context
+                                      --quick-pid
+                    ********* misc options *********
+-V,V  show version      L  list format codes  f  ASCII art forest
+-m,m,-L,-T,H  threads   S  children in sum    -y change -l format
+-M,Z  security data     c  true command name  -c scheduling class
+-w,w  wide output       n  numeric WCHAN,UID  -H process hierarchy
+
+2016-11-23 16:37:51,239 p=30640 u=mjohnson |  server1.hdp | FAILED | rc=1 >>
+ERROR: Garbage option.
+********* simple selection *********  ********* selection by list *********
+-A all processes                      -C by command name
+-N negate selection                   -G by real group ID (supports names)
+-a all w/ tty except session leaders  -U by real user ID (supports names)
+-d all except session leaders         -g by session OR by effective group name
+-e all processes                      -p by process ID
+                                      -q by process ID (unsorted & quick)
+T  all processes on this terminal     -s processes in the sessions given
+a  all w/ tty, including other users  -t by tty
+g  OBSOLETE -- DO NOT USE             -u by effective user ID (supports names)
+r  only running processes             U  processes for specified users
+x  processes w/o controlling ttys     t  by tty
+*********** output format **********  *********** long options ***********
+-o,o user-defined  -f full            --Group --User --pid --cols --ppid
+-j,j job control   s  signal          --group --user --sid --rows --info
+-O,O preloaded -o  v  virtual memory  --cumulative --format --deselect
+-l,l long          u  user-oriented   --sort --tty --forest --version
+-F   extra full    X  registers       --heading --no-heading --context
+                                      --quick-pid
+                    ********* misc options *********
+-V,V  show version      L  list format codes  f  ASCII art forest
+-m,m,-L,-T,H  threads   S  children in sum    -y change -l format
+-M,Z  security data     c  true command name  -c scheduling class
+-w,w  wide output       n  numeric WCHAN,UID  -H process hierarchy
+
+2016-11-23 16:37:51,257 p=30640 u=mjohnson |  server5.hdp | FAILED | rc=1 >>
+ERROR: Garbage option.
+********* simple selection *********  ********* selection by list *********
+-A all processes                      -C by command name
+-N negate selection                   -G by real group ID (supports names)
+-a all w/ tty except session leaders  -U by real user ID (supports names)
+-d all except session leaders         -g by session OR by effective group name
+-e all processes                      -p by process ID
+                                      -q by process ID (unsorted & quick)
+T  all processes on this terminal     -s processes in the sessions given
+a  all w/ tty, including other users  -t by tty
+g  OBSOLETE -- DO NOT USE             -u by effective user ID (supports names)
+r  only running processes             U  processes for specified users
+x  processes w/o controlling ttys     t  by tty
+*********** output format **********  *********** long options ***********
+-o,o user-defined  -f full            --Group --User --pid --cols --ppid
+-j,j job control   s  signal          --group --user --sid --rows --info
+-O,O preloaded -o  v  virtual memory  --cumulative --format --deselect
+-l,l long          u  user-oriented   --sort --tty --forest --version
+-F   extra full    X  registers       --heading --no-heading --context
+                                      --quick-pid
+                    ********* misc options *********
+-V,V  show version      L  list format codes  f  ASCII art forest
+-m,m,-L,-T,H  threads   S  children in sum    -y change -l format
+-M,Z  security data     c  true command name  -c scheduling class
+-w,w  wide output       n  numeric WCHAN,UID  -H process hierarchy
+
+2016-11-23 16:37:51,258 p=30640 u=mjohnson |  server4.hdp | FAILED | rc=1 >>
+ERROR: Garbage option.
+********* simple selection *********  ********* selection by list *********
+-A all processes                      -C by command name
+-N negate selection                   -G by real group ID (supports names)
+-a all w/ tty except session leaders  -U by real user ID (supports names)
+-d all except session leaders         -g by session OR by effective group name
+-e all processes                      -p by process ID
+                                      -q by process ID (unsorted & quick)
+T  all processes on this terminal     -s processes in the sessions given
+a  all w/ tty, including other users  -t by tty
+g  OBSOLETE -- DO NOT USE             -u by effective user ID (supports names)
+r  only running processes             U  processes for specified users
+x  processes w/o controlling ttys     t  by tty
+*********** output format **********  *********** long options ***********
+-o,o user-defined  -f full            --Group --User --pid --cols --ppid
+-j,j job control   s  signal          --group --user --sid --rows --info
+-O,O preloaded -o  v  virtual memory  --cumulative --format --deselect
+-l,l long          u  user-oriented   --sort --tty --forest --version
+-F   extra full    X  registers       --heading --no-heading --context
+                                      --quick-pid
+                    ********* misc options *********
+-V,V  show version      L  list format codes  f  ASCII art forest
+-m,m,-L,-T,H  threads   S  children in sum    -y change -l format
+-M,Z  security data     c  true command name  -c scheduling class
+-w,w  wide output       n  numeric WCHAN,UID  -H process hierarchy
+
+2016-11-23 16:37:51,259 p=30640 u=mjohnson |  server3.hdp | FAILED | rc=1 >>
+ERROR: Garbage option.
+********* simple selection *********  ********* selection by list *********
+-A all processes                      -C by command name
+-N negate selection                   -G by real group ID (supports names)
+-a all w/ tty except session leaders  -U by real user ID (supports names)
+-d all except session leaders         -g by session OR by effective group name
+-e all processes                      -p by process ID
+                                      -q by process ID (unsorted & quick)
+T  all processes on this terminal     -s processes in the sessions given
+a  all w/ tty, including other users  -t by tty
+g  OBSOLETE -- DO NOT USE             -u by effective user ID (supports names)
+r  only running processes             U  processes for specified users
+x  processes w/o controlling ttys     t  by tty
+*********** output format **********  *********** long options ***********
+-o,o user-defined  -f full            --Group --User --pid --cols --ppid
+-j,j job control   s  signal          --group --user --sid --rows --info
+-O,O preloaded -o  v  virtual memory  --cumulative --format --deselect
+-l,l long          u  user-oriented   --sort --tty --forest --version
+-F   extra full    X  registers       --heading --no-heading --context
+                                      --quick-pid
+                    ********* misc options *********
+-V,V  show version      L  list format codes  f  ASCII art forest
+-m,m,-L,-T,H  threads   S  children in sum    -y change -l format
+-M,Z  security data     c  true command name  -c scheduling class
+-w,w  wide output       n  numeric WCHAN,UID  -H process hierarchy
+
+2016-11-23 16:38:02,992 p=30705 u=mjohnson |  server5.hdp | SUCCESS | rc=0 >>
+root     20481 20480  0 16:38 pts/0    00:00:00 /bin/sh -c ps -ef | grep spark
+root     20483 20481  0 16:38 pts/0    00:00:00 grep spark
+
+2016-11-23 16:38:02,993 p=30705 u=mjohnson |  server2.hdp | SUCCESS | rc=0 >>
+root     16838 16837  0 16:38 pts/0    00:00:00 /bin/sh -c ps -ef | grep spark
+root     16840 16838  0 16:38 pts/0    00:00:00 grep spark
+hive     31401     1  0 11:20 ?        00:01:57 /usr/jdk64/jdk1.8.0_77/bin/java -Dhdp.version=2.5.0.0-1245 -cp /usr/hdp/2.5.0.0-1245/spark/sbin/../conf/:/usr/hdp/2.5.0.0-1245/spark/lib/spark-assembly-1.6.2.2.5.0.0-1245-hadoop2.7.3.2.5.0.0-1245.jar:/usr/hdp/2.5.0.0-1245/spark/lib/datanucleus-core-3.2.10.jar:/usr/hdp/2.5.0.0-1245/spark/lib/datanucleus-rdbms-3.2.9.jar:/usr/hdp/2.5.0.0-1245/spark/lib/datanucleus-api-jdo-3.2.6.jar:/usr/hdp/current/hadoop-client/conf/:/usr/hdp/current/hadoop-client/lib/aws-java-sdk-s3-1.10.6.jar:/usr/hdp/current/hadoop-client/lib/aws-java-sdk-core-1.10.6.jar:/usr/hdp/current/hadoop-client/lib/aws-java-sdk-kms-1.10.6.jar -Xms1024m -Xmx1024m org.apache.spark.deploy.SparkSubmit --properties-file /usr/hdp/current/spark-thriftserver/conf/spark-thrift-sparkconf.conf --class org.apache.spark.sql.hive.thriftserver.HiveThriftServer2 spark-internal
+
+2016-11-23 16:38:02,994 p=30705 u=mjohnson |  server3.hdp | SUCCESS | rc=0 >>
+root     24644 24643  0 16:38 pts/0    00:00:00 /bin/sh -c ps -ef | grep spark
+root     24646 24644  0 16:38 pts/0    00:00:00 grep spark
+
+2016-11-23 16:38:02,995 p=30705 u=mjohnson |  server4.hdp | SUCCESS | rc=0 >>
+yarn      2095  2093  0 11:20 ?        00:00:00 /bin/bash -c /usr/jdk64/jdk1.8.0_77/bin/java -server -Xmx512m -Djava.io.tmpdir=/hadoop/yarn/local/usercache/hive/appcache/application_1478824381547_0033/container_e03_1478824381547_0033_01_000001/tmp -Dhdp.version=2.5.0.0-1245 -Dspark.yarn.app.container.log.dir=/hadoop/yarn/log/application_1478824381547_0033/container_e03_1478824381547_0033_01_000001 org.apache.spark.deploy.yarn.ExecutorLauncher --arg '192.168.1.201:40254' --executor-memory 1024m --executor-cores 1 --properties-file /hadoop/yarn/local/usercache/hive/appcache/application_1478824381547_0033/container_e03_1478824381547_0033_01_000001/__spark_conf__/__spark_conf__.properties 1> /hadoop/yarn/log/application_1478824381547_0033/container_e03_1478824381547_0033_01_000001/stdout 2> /hadoop/yarn/log/application_1478824381547_0033/container_e03_1478824381547_0033_01_000001/stderr
+yarn      2104  2095  0 11:20 ?        00:00:22 /usr/jdk64/jdk1.8.0_77/bin/java -server -Xmx512m -Djava.io.tmpdir=/hadoop/yarn/local/usercache/hive/appcache/application_1478824381547_0033/container_e03_1478824381547_0033_01_000001/tmp -Dhdp.version=2.5.0.0-1245 -Dspark.yarn.app.container.log.dir=/hadoop/yarn/log/application_1478824381547_0033/container_e03_1478824381547_0033_01_000001 org.apache.spark.deploy.yarn.ExecutorLauncher --arg 192.168.1.201:40254 --executor-memory 1024m --executor-cores 1 --properties-file /hadoop/yarn/local/usercache/hive/appcache/application_1478824381547_0033/container_e03_1478824381547_0033_01_000001/__spark_conf__/__spark_conf__.properties
+root      2750  2748  0 16:38 pts/0    00:00:00 /bin/sh -c ps -ef | grep spark
+root      2752  2750  0 16:38 pts/0    00:00:00 grep spark
+
+2016-11-23 16:38:02,995 p=30705 u=mjohnson |  server1.hdp | SUCCESS | rc=0 >>
+root     15352 15351  0 16:38 pts/0    00:00:00 /bin/sh -c ps -ef | grep spark
+root     15354 15352  0 16:38 pts/0    00:00:00 grep spark
+spark    21630     1  0 11:20 ?        00:00:36 /usr/jdk64/jdk1.8.0_77/bin/java -Dhdp.version=2.5.0.0-1245 -cp /usr/hdp/2.5.0.0-1245/spark/sbin/../conf/:/usr/hdp/2.5.0.0-1245/spark/lib/spark-assembly-1.6.2.2.5.0.0-1245-hadoop2.7.3.2.5.0.0-1245.jar:/usr/hdp/2.5.0.0-1245/spark/lib/datanucleus-rdbms-3.2.9.jar:/usr/hdp/2.5.0.0-1245/spark/lib/datanucleus-api-jdo-3.2.6.jar:/usr/hdp/2.5.0.0-1245/spark/lib/datanucleus-core-3.2.10.jar:/usr/hdp/current/hadoop-client/conf/:/usr/hdp/current/hadoop-client/lib/aws-java-sdk-s3-1.10.6.jar:/usr/hdp/current/hadoop-client/lib/aws-java-sdk-core-1.10.6.jar:/usr/hdp/current/hadoop-client/lib/aws-java-sdk-kms-1.10.6.jar -Xms1024m -Xmx1024m org.apache.spark.deploy.history.HistoryServer
+
+2016-11-23 16:39:02,788 p=30805 u=mjohnson |  server3.hdp | SUCCESS | rc=0 >>
+root     24928 24927  0 16:39 pts/0    00:00:00 /bin/sh -c ps -ef | grep spark
+root     24930 24928  0 16:39 pts/0    00:00:00 grep spark
+
+2016-11-23 16:39:02,789 p=30805 u=mjohnson |  server4.hdp | SUCCESS | rc=0 >>
+root      2959  2958  0 16:39 pts/0    00:00:00 /bin/sh -c ps -ef | grep spark
+root      2961  2959  0 16:39 pts/0    00:00:00 grep spark
+
+2016-11-23 16:39:02,790 p=30805 u=mjohnson |  server5.hdp | SUCCESS | rc=0 >>
+root     20576 20575  0 16:39 pts/0    00:00:00 /bin/sh -c ps -ef | grep spark
+root     20578 20576  0 16:39 pts/0    00:00:00 grep spark
+
+2016-11-23 16:39:02,796 p=30805 u=mjohnson |  server2.hdp | SUCCESS | rc=0 >>
+root     17167 17166  0 16:39 pts/0    00:00:00 /bin/sh -c ps -ef | grep spark
+root     17169 17167  0 16:39 pts/0    00:00:00 grep spark
+
+2016-11-23 16:39:02,802 p=30805 u=mjohnson |  server1.hdp | SUCCESS | rc=0 >>
+root     15680 15679  0 16:39 pts/0    00:00:00 /bin/sh -c ps -ef | grep spark
+root     15682 15680  0 16:39 pts/0    00:00:00 grep spark
+
+2016-11-23 16:40:33,012 p=30951 u=mjohnson |  server3.hdp | FAILED | rc=1 >>
+hadoop-yarn-nodemanager: unrecognized service
+
+2016-11-23 16:40:33,012 p=30951 u=mjohnson |  server4.hdp | FAILED | rc=1 >>
+hadoop-yarn-nodemanager: unrecognized service
+
+2016-11-23 16:40:33,013 p=30951 u=mjohnson |  server5.hdp | FAILED | rc=1 >>
+hadoop-yarn-nodemanager: unrecognized service
+
+2016-11-23 16:40:33,014 p=30951 u=mjohnson |  server2.hdp | FAILED | rc=1 >>
+hadoop-yarn-nodemanager: unrecognized service
+
+2016-11-23 16:40:33,021 p=30951 u=mjohnson |  server1.hdp | FAILED | rc=1 >>
+hadoop-yarn-nodemanager: unrecognized service
+
